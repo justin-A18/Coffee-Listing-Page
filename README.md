@@ -2,10 +2,13 @@
 
 Este proyecto es una página de listado de cafés que utiliza React para crear un componente de tarjeta reutilizable. Los usuarios pueden ver una lista de cafés con información detallada, como nombre, imagen, precio, calificación y número de votos (si está disponible). Además, la página permite filtrar los cafés disponibles y muestra una etiqueta de popularidad y estado de disponibilidad de manera condicional.
 
+![Texto alternativo](./public/desing.png)
+
+
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/nombre-del-repo.git`
-2. Ingresa al directorio del proyecto: `cd nombre-del-repo`
+1. Clona este repositorio: `git clone https://github.com/justin-A18/Coffee-Listing-Page.git`
+2. Ingresa al directorio del proyecto: `cd Coffe-Listing-Page`
 3. Instala las dependencias: `npm install`
 
 ## Uso
@@ -29,7 +32,7 @@ Los datos de los cafés se obtienen de una API proporcionada o se pueden cargar 
 
 ## Deployment
 
-El proyecto está desplegado y disponible en [Demo URL](enlace-del-demo).
+El proyecto está desplegado y disponible en [Demo URL]().
 
 ## Contribución
 
